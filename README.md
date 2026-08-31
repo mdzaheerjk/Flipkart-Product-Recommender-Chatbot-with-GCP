@@ -4,7 +4,7 @@ Develop a Flipkart Product Recommender Chatbot using Retrieval-Augmented Generat
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_3hrl1j3hrl1j3hrl.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/Gemini_Generated_Image_3hrl1j3hrl1j3hrl.jpg"
        alt="Project Preview"
        width="600" />
 </p>
@@ -12,7 +12,7 @@ Develop a Flipkart Product Recommender Chatbot using Retrieval-Augmented Generat
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Excalidraw_Whiteboard_-_Google_Chrome_1_14_2026_5_05_34_PM.png"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/Excalidraw_Whiteboard_-_Google_Chrome_1_14_2026_5_05_34_PM.png"
        alt="System Architecture"
        width="600" />
 </p>
